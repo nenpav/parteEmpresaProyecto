@@ -52,7 +52,7 @@ Roled ofrece las garantías de adquirir un producto nacional, que cumple con tod
 
 En cuanto a la aplicación Web, existen otras aplicaciones de dibujo en el mercado pero la de Roled está diseñada específicamente para que estos sean posteriormente proyectados, por lo que se garantiza que los diseños no perderán calidad ni información a la hora de enviarse al dispositivo, ni implicarán que el usuario tenga que hacer cálculos para que los lienzos de dibujo se ajusten a la resolución del dispositivo POV, siendo un proceso mucho más cómodo y amigable para el usuario.
 
-![Analisis DAFO](../img/grafico_dafo.png)
+![Analisis DAFO](./img/grafico_dafo.png)
 
 ### 2.3- Segmento de clientes
 
@@ -77,9 +77,9 @@ como Photoshop, Illustrator, etc.
 
 Para poder representar la posición de Roled en el mercado con respecto a la competencia, se realizaron dos Mapas de posicionamiento, uno para el periférico POV y otro para la aplicación de dibujo.
 
-![Mapa posicionamiento POV](../img/mapa_pos_pov.png)
+![Mapa posicionamiento POV](./img/mapa_pos_pov.png)
 
-![Mapa posicionamiento APP](../img/mapa_pos_app.png)
+![Mapa posicionamiento APP](./img/mapa_pos_app.png)
 
 Como se puede apreciar en ambos mapas de posicionamiento, Roled ocupa un mercado diferente al del resto de la competencia, ofreciendo un periférico de un mercado más cercano con todas las garantías y confianza que supone para los clientes; y una aplicación web gratuita que, aunque ofrece menos funcionalidades, está especialmente diseñada para crear diseños para ser proyectados con el periférico POV, obteniendo mejores resultados. 
 
@@ -87,11 +87,11 @@ Como se puede apreciar en ambos mapas de posicionamiento, Roled ocupa un mercado
 
 En la siguiente imagen se muestra el análisis Canvas de Roled donde se muestra la propuesta de valor y se esquematizan algunos puntos importantes como la competencia, las asociaciones clave, etc.
 
-![Análisis CANVAS](../img/canvas.png)
+![Análisis CANVAS](./img/canvas.png)
 
 Para representar en qué se diferencia el producto que ofrece Roled de otros productos tradicionales en la competencia se realizó la siguiente curva de valor.
 
-![Curva de valor](../img/curva_valor.PNG)
+![Curva de valor](./img/curva_valor.PNG)
 
 Como se puede apreciar, Roled apuesta por un producto de mayor calidad, que genere una mayor confianza a los clientes dada su cercanía, apostando por una aplicación web asociada, permitiendo una personalización del dispositivo a gusto del cliente. Además, Roled usa materiales reciclados para la elaboración de partes del periférico, por lo que también ofrece una mayor Responsabilidad Social Corporativa.
 
@@ -117,7 +117,7 @@ Se realizó una estimación de la inversión de activo necesario para el proyect
 
 La siguiente imagen muestra el resultado del total de inversiones necesarias para antes de iniciar el proyecto, asi como cada años hasta el año 2028.
 
-![Inversiones de activo](../img/inversiones.PNG)
+![Inversiones de activo](./img/inversiones.PNG)
 
 #### 2.7.1- Custos
 
@@ -129,7 +129,7 @@ Se tiene el cuenta el coste unitario por cada uno de los productos que ofrece Ro
 - Contenido de pago del software: coste unitario de 20€ con una variación del 3%.
 - Mantenimiento de empresas: coste unitario de 45€ con una variación del 3%.
 
-![Total de gastos variables](../img/gastos_variables.PNG)
+![Total de gastos variables](./img/gastos_variables.PNG)
 
 **Gastos de personal**
 
@@ -146,11 +146,11 @@ En este apartado se tiene en cuenta los gastos fijos del proyecto Roled:
 
 En la siguiente imagen se muestra el resultado total de gastos variables, de salario y gastos fijos del proyecto, desglosándolo por producto o servicio que ofrece Roled:
 
-![Gastos totales](../img/gastos_totales.PNG)
+![Gastos totales](./img/gastos_totales.PNG)
 
 #### 2.7.2- Ingresos
 
-![Ventas 2024](../img/ventas_2024.png)
+![Ventas 2024](./img/ventas_2024.png)
 
 Suponiendo una variación de precios de entre el 3% y el 5%, así como un aumento de aproximadamente el 50% en número de ventas anual, para el año 2028 se estima que el total de ventas asciende a 37.445€ sin IVA, lo cual es un incremento significativo con respecto al año 2024 reflejado en la imagen anterior. 
 
@@ -183,7 +183,7 @@ El beneficio neto en el año 2024 es negativo de (288)€, lo cual es esperable 
 
 En el año 2024, el punto de equilibrio se estima en 6.511€ quedando a una distancia negativa de este de (411)€. No obstante, esta situación se corrige en los años posteriores llegando a un valor de punto de equilibrio de 9.182€ y una distancia de este de 28.263€.
 
-![Punto de equilibrio](../img/equilibrio.PNG)
+![Punto de equilibrio](./img/equilibrio.PNG)
 
 **Balance**
 
@@ -250,4 +250,4 @@ Para el backend se usará el lenguaje de programación PHP, que se encargará de
 
 Para representar la duración estimada de cada una de las fases del proyecto se usa un Diagrama de Gantt.
 
-![Diagrama de Gantt](../img/diagrama_gantt.png)
+![Diagrama de Gantt](./img/diagrama_gantt.png)
